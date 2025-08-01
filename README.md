@@ -83,3 +83,4 @@ pip install opencv-python pandas google-cloud-vision openpyxl
 🚚 Plaka: 35ABC123, Ağırlık: 26300 kg
 📤 Veri gönderildi: DATA:35ABC123|26300
 ✅ Excel'e kaydedildi: tartim_kayitlari.xlsx
+
